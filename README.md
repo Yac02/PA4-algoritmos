@@ -53,3 +53,9 @@ cd PA4-algoritmos
 # 3. Compilar y ejecutar un algoritmo (Ejemplo para Actividad 1)
 javac codigo/actividad1/Actividad1.java
 java -cp codigo/actividad1 Actividad1# PA4-algoritmos
+
+
+5. Video de exposición
+Enlace a YouTube: [PEGAR AQUÍ]
+
+Nota: En el video de exposición, todos los integrantes del equipo participamos con las cámaras prendidas, explicando cómo resolvimos cada actividad de la evaluación y justificando la integración de recursividad, ordenamiento recursivo y algoritmos de búsqueda.
