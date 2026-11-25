@@ -43,7 +43,7 @@ Integrar técnicas de **recursividad** y **grafos** para diseñar una solución 
 
 ## 4. Instrucciones de uso
 
-```basd ### 4 argumentacion final
+```basd ### 4 argumentacion final ds
 
 # 1. Clonar el repositorio
 git clone [https://github.com/Yac02/PA4-algoritmos.git](https://github.com/Yac02/PA4-algoritmos.git)
