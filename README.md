@@ -57,6 +57,6 @@ java -cp codigo/actividad1 Actividad1# PA4-algoritmos
 
 
 5. Video de exposición
-Enlace a YouTube: [PEGAR AQUÍ]
+Enlace a YouTube: https://youtu.be/3vUX-6NLz0g
 
 Nota: En el video de exposición, todos los integrantes del equipo participamos con las cámaras prendidas, explicando cómo resolvimos cada actividad de la evaluación y justificando la integración de recursividad, ordenamiento recursivo y algoritmos de búsqueda.
